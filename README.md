@@ -1,11 +1,6 @@
 # Bitwise math
 
-How does a electronic circuit perform arithmetic operations using just ones and zeros?  
-By using the Arithmetic Logic Unit (ALU) of the processor, which in the end makes use of
-the logic (through the logic gates) to perform simple but powerful operations.
-
-In order to better understand its basics, I've written a few arithmetic operators using 
-just bitwise logic operators and loops.
+In order to better understand the fundamentals by which the Arithmetic Logic Unit (ALU) works, I've written a couple of functions that perform simple arithmetic operations using only logical operators and loops.
 
 ## Examples
 
